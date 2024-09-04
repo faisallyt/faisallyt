@@ -50,6 +50,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="25" alt="git logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="25" alt="github logo"  />
+  <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM6YedRwhfptRWj5HSzoozgX6tiIHq0KXcfA&s" height="25" alt="Chart js"  />
 </div>
 
 ###
